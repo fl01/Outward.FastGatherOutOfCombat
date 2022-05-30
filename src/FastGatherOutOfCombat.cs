@@ -10,7 +10,7 @@ namespace Outward.FastGatherOutOfCombat
         public const string GUID = "fl01.fast-gather-out-of-combat";
         public const string NAME = "Fast gather out of combat";
         public const string VERSION = "1.0.0";
-        public static ManualLogSource Log;
+
         internal void Awake()
         {
             new Harmony(GUID).PatchAll();
