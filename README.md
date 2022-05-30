@@ -1,1 +1,1 @@
-# Skip Readiness Check
+# Fast Gather Out Of Combat
