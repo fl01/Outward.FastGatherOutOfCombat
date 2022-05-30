@@ -5,7 +5,7 @@ using HarmonyLib;
 namespace Outward.FastGatherOutOfCombat
 {
     [BepInPlugin(GUID, NAME, VERSION)]
-    public class FastGatherOutOfCombat : BaseUnityPlugin
+    public class FastGatherOutOfCombatMod : BaseUnityPlugin
     {
         public const string GUID = "fl01.fast-gather-out-of-combat";
         public const string NAME = "Fast gather out of combat";
