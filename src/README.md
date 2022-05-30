@@ -1,0 +1,1 @@
+﻿Use action button to gather resources out of combat

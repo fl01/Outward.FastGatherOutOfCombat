@@ -1,0 +1,10 @@
+{
+  "name": "FastGatherOutOfCombat",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/fl01/Outward.FastGatherOutOfCombat",
+  "description": "Use action button to gather resources out of combat",
+  "dependencies": [
+    "sinai-dev-SideLoader-3.7.0",
+    "BepInEx-BepInExPack_Outward-5.4.15"
+  ]
+}
